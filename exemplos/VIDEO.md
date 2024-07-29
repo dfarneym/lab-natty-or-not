@@ -1,20 +1,20 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# Projeto artigo técnico gerado por I.A.s
 
 ## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+Projeto com o objetivo de gerar um artigo técnico "Manipulando Listas em Python: Dicas e Truques Essenciais" com um layout rico, dando dicas de estruturas de dados em python.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
-- Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
+- [ChatGPT](https://chat.openai.com/) - para título e conteúdo
+- [bing.com](https://www.bing.com/) - para gerar imagens
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
+Usei o "ChatGPT" para escrever o artigo e com revisão 100% humana. Já para gerar as imagens usei o Bing. E para formatação de banners e Layouts usei o POWERPOINT.
 
 ## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+O artigo é um ponta pé inicial para que quer entender lista em Python com diacas essencias, destacando as pricipais tipos de lista em Python.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](href="https://www.dio.me/articles/manipulando-listas-em-python-dicas-e-truques-essenciais)
 
 ## 💭 Reflexão
-Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
+Este projeto foi uma experiência incrível utilizando as IAs Generativas para criar um artigo.
